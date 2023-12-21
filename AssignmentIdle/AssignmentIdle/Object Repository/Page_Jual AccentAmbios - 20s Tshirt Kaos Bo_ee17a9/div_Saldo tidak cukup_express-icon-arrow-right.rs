@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Saldo tidak cukup_express-icon-arrow-right</name>
+   <tag></tag>
+   <elementGuidId>bb7abb5e-9f5d-49bf-87d2-c40a4102c803</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1']/div[2]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.express-icon-arrow-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a95da42-64dd-4396-8cb5-63e19cd68ddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>express-icon-arrow-right</value>
+      <webElementGuid>25776d89-05ba-4e14-bfed-8b4acdbbdff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1&quot;)/div[@class=&quot;payment__list-wrapper&quot;]/div[@class=&quot;payment-list express-payment-list&quot;]/div[@class=&quot;payment__list&quot;]/div[@class=&quot;payment__selection&quot;]/div[@class=&quot;express-icon-arrow-right&quot;]</value>
+      <webElementGuid>47291251-b952-435d-a14b-266ef52a4280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Jual AccentAmbios - 20s Tshirt Kaos Bo_ee17a9/iframe_Pilih pembayaran_iframe-occ-change-payment</value>
+      <webElementGuid>42fb715e-c2e8-444d-869f-7f571f2ce310</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1']/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>c3f42c8b-6c00-4b95-bbbc-fefa52cd2cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div</value>
+      <webElementGuid>50e460c3-4898-46f6-882c-6e03bab8052d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

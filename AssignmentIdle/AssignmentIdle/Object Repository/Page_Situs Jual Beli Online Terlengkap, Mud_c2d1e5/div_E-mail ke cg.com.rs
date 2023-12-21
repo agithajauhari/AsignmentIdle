@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_E-mail ke cg.com</name>
+   <tag></tag>
+   <elementGuidId>3eb5b59f-58df-40b2-b3cb-e20bd89b8ff9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Metode Verifikasi'])[1]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1bpd5an</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0dfea2cb-7b23-4afd-ae4a-76bad9a16ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1bpd5an</value>
+      <webElementGuid>f181f0bc-77c8-4d66-b667-771cc155c6c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>E-mail ke c***************@g****.com</value>
+      <webElementGuid>be6c35c4-d856-4194-9dfd-4621c2a7f86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;css-1g5w2rw&quot;]/div[7]/div[@class=&quot;css-y344pu e1nc1fa20&quot;]/article[@class=&quot;css-1f0x5lg-unf-modal e1nc1fa21&quot;]/div[@class=&quot;css-18qem4c e1nc1fa22&quot;]/div[@class=&quot;css-1qwpmq4&quot;]/div[@class=&quot;css-vpkyow&quot;]/div[@class=&quot;css-1tk5fl4&quot;]/div[@class=&quot;unf-card css-1dns7ds-unf-card eh33ozn0&quot;]/div[@class=&quot;css-1bpd5an&quot;]</value>
+      <webElementGuid>e164b365-73f8-4e95-87fb-ae03b88a8b2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Metode Verifikasi'])[1]/following::div[4]</value>
+      <webElementGuid>7a82ffd0-d13f-4f69-ab44-414aa36eacd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor saya sudah tidak aktif'])[1]/preceding::div[1]</value>
+      <webElementGuid>c4ce06d3-60bd-4b81-9161-26f4129ee5fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='c***************@g****.com']/parent::*</value>
+      <webElementGuid>3d45b2e4-2397-4f3b-a970-35c0b1dc313a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div/div[2]/div/div</value>
+      <webElementGuid>8071c7fa-8251-4ab1-9007-df2fa98ac94c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'E-mail ke c***************@g****.com' or . = 'E-mail ke c***************@g****.com')]</value>
+      <webElementGuid>50717a7c-4d61-4d3c-accd-a49e18b84b32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

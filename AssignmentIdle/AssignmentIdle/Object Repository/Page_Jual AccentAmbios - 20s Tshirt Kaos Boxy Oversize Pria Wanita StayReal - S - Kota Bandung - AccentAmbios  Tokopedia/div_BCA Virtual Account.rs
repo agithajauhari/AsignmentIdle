@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BCA Virtual Account</name>
+   <tag></tag>
+   <elementGuidId>c98e7452-7a3f-49be-a3dc-7a295968c4b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='7']/div[2]/div[2]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1bb05076-4bdc-4947-a53d-30e74817d150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment__detail payment__detail-center</value>
+      <webElementGuid>ccac1381-e5d5-4abb-9bf0-14dc835b9ef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BCA Virtual Account</value>
+      <webElementGuid>89d7f945-e63c-4cbb-aa0d-db9da4ce9aeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;7&quot;)/div[@class=&quot;payment__list-wrapper&quot;]/div[@class=&quot;payment-list express-payment-list&quot;]/div[@class=&quot;payment__list&quot;]/div[@class=&quot;payment__logo-detail&quot;]/div[@class=&quot;payment__detail payment__detail-center&quot;]</value>
+      <webElementGuid>5f5f6024-9ee1-450c-a026-15e186623359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Jual AccentAmbios - 20s Tshirt Kaos Boxy Oversize Pria Wanita StayReal - S - Kota Bandung - AccentAmbios  Tokopedia/iframe_Pilih pembayaran_iframe-occ-change-payment</value>
+      <webElementGuid>684e0de3-700d-427a-b7e1-dbb33e3e0e70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='7']/div[2]/div[2]/div/div/div[2]</value>
+      <webElementGuid>da43bbaf-c06f-42de-a4bc-c00e3460c812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandiri Virtual Account'])[1]/following::div[7]</value>
+      <webElementGuid>48ab3826-9ff1-4f6e-b26e-e82598b6ffa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Virtual Account'])[1]/following::div[14]</value>
+      <webElementGuid>3e28d7a0-8063-40ec-869f-bbcb0ccf0f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BRIVA'])[1]/preceding::div[5]</value>
+      <webElementGuid>682fcc99-c039-4919-95f0-a62c890b7e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/div/div/div[2]</value>
+      <webElementGuid>591e7450-4135-4f9a-9292-65e430b38aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BCA Virtual Account' or . = 'BCA Virtual Account')]</value>
+      <webElementGuid>3ddb9b2a-1954-4ba7-ad42-e3c6ddbc20cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onboarding-remove-profile-1-1']/div/div/div[3]</value>
+      <webElementGuid>6ec7e4a1-be49-4d76-9a24-b53d121e3d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utama'])[1]/following::div[14]</value>
+      <webElementGuid>8b3901e7-67d9-4a33-a677-2fab4c1b8707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Makin hemat pakai promo'])[1]/preceding::div[19]</value>
+      <webElementGuid>0b34b91d-80a3-4cbb-9172-a74c40568d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayar'])[1]/preceding::div[49]</value>
+      <webElementGuid>0222aff8-09c7-416c-bbeb-11ae48d0daf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[3]</value>
+      <webElementGuid>6aaaf520-465c-4a83-854f-8be592389011</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

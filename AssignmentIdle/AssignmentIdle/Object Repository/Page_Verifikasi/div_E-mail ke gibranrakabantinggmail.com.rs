@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_E-mail ke gibranrakabantinggmail.com</name>
+   <tag></tag>
+   <elementGuidId>889c7a79-9a8f-444b-8af1-e891bd3da28a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1bpd5an</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>22fd62ef-edd5-440a-a0e4-3ff93382d665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1bpd5an</value>
+      <webElementGuid>320fc5f6-ffbf-47b1-b674-f7572107b653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>E-mail ke gibranrakabanting@gmail.com</value>
+      <webElementGuid>d39103a5-37b5-4ad1-b7b0-c137ef96dcc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-1pjobg4&quot;]/div[@class=&quot;css-vpkyow&quot;]/div[@class=&quot;css-1tk5fl4&quot;]/div[@class=&quot;unf-card css-1dns7ds-unf-card eh33ozn0&quot;]/div[@class=&quot;css-1bpd5an&quot;]</value>
+      <webElementGuid>25f8d0e4-c9eb-4962-9de5-9e0de6991746</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>93e0e844-ac70-45cd-bef6-97572058c951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Metode Verifikasi'])[1]/following::div[4]</value>
+      <webElementGuid>9b3442e9-c4c0-4154-9d6d-e513d1b526f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='gibranrakabanting@gmail.com']/parent::*</value>
+      <webElementGuid>93d45ee1-7fab-47eb-a0cf-7e6ecda17e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div</value>
+      <webElementGuid>8d96f9c4-6cc0-438a-bfb0-2512686ca174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'E-mail ke gibranrakabanting@gmail.com' or . = 'E-mail ke gibranrakabanting@gmail.com')]</value>
+      <webElementGuid>9d78b7c1-56ba-4377-99e1-a2c513691a48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

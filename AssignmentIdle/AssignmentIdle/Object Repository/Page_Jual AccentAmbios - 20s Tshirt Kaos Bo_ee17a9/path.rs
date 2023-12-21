@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>60d85a0d-3617-4a9d-91a3-281c1a3004ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-10x2f60 > div:nth-of-type(2) > button.css-1etiiiw > svg.unf-icon > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>769eb4aa-7588-43b2-9b9d-0dc532db4669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M9.5 17.75a.75.75 0 01-.5-1.28L13.44 12 9 7.53a.75.75 0 011-1.06l5 5a.75.75 0 010 1.06l-5 5a.74.74 0 01-.5.22z</value>
+      <webElementGuid>8f45df93-477a-44ed-97b5-001fd71364e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onboarding-remove-profile-1-1&quot;)/div[1]/div[@class=&quot;css-7e4vat&quot;]/div[@class=&quot;css-1k3qxju&quot;]/div[1]/div[1]/div[@class=&quot;css-10x2f60&quot;]/div[2]/button[@class=&quot;css-1etiiiw&quot;]/svg[@class=&quot;unf-icon&quot;]/path[1]</value>
+      <webElementGuid>1f2c8b59-282e-47c5-9fe3-c499e745a4ac</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

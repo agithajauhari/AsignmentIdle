@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Komputer  Laptop_overlay css-1bthpo9-un_f731c0</name>
+   <tag></tag>
+   <elementGuidId>4d3c6f87-9d7e-4b8e-8783-baefe60acc12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.overlay.css-1bthpo9-unf-overlay.e5vepyj0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>75a80337-6b7b-4341-aa08-788d4e555ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Overlay</value>
+      <webElementGuid>91efc201-5e29-483b-9765-fd91355ed3fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>overlay css-1bthpo9-unf-overlay e5vepyj0</value>
+      <webElementGuid>01667d3e-0597-42f9-b8e4-2ee47563c9ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;css-1g5w2rw&quot;]/div[7]/div[@class=&quot;css-y344pu e1nc1fa20&quot;]/article[@class=&quot;css-1f0x5lg-unf-modal e1nc1fa21&quot;]/div[@class=&quot;css-18qem4c e1nc1fa22&quot;]/div[@class=&quot;css-1qwpmq4&quot;]/div[@class=&quot;css-vpkyow&quot;]/div[@class=&quot;css-6h8lgl&quot;]/div[@class=&quot;overlay css-1bthpo9-unf-overlay e5vepyj0&quot;]</value>
+      <webElementGuid>5050a895-0cd4-4bfe-baa7-8cde553c34c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div/div/div</value>
+      <webElementGuid>7478297a-a841-49ad-a0a2-d2066752816e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

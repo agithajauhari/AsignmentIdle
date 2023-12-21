@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Utama_unf-icon</name>
+   <tag></tag>
+   <elementGuidId>d8cc55b3-d2b8-4d40-8c7a-68f23809ae70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Utama'])[1]/following::*[name()='svg'][4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-10x2f60 > div:nth-of-type(2) > button.css-1etiiiw > svg.unf-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>09d0817b-ddb2-42ab-996b-aeba6d4cb39e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unf-icon</value>
+      <webElementGuid>3255e120-1e44-4a30-8aab-aa4a172c0c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>5ef96b6d-1188-4ed6-bcc0-f65a9d038ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>743239dc-44a5-4ca7-aaae-08605a05034a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>79a1624d-e919-4e11-b0a5-e9ff57e5fc1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>var(--color-icon-enabled, #2E3137)</value>
+      <webElementGuid>d42c4280-8926-47e7-ac8e-c2b0a545789c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onboarding-remove-profile-1-1&quot;)/div[1]/div[@class=&quot;css-7e4vat&quot;]/div[@class=&quot;css-1k3qxju&quot;]/div[1]/div[1]/div[@class=&quot;css-10x2f60&quot;]/div[2]/button[@class=&quot;css-1etiiiw&quot;]/svg[@class=&quot;unf-icon&quot;]</value>
+      <webElementGuid>11ccb349-0fb6-4811-a640-61c7c8fd0276</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utama'])[1]/following::*[name()='svg'][4]</value>
+      <webElementGuid>9a7f38e9-bd94-4c77-a217-fd6e9a14f02e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Makin hemat pakai promo'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>a87b3bd1-3816-4e7b-a89e-b3a47424d848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayar'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>f5ec1130-2b92-4e83-9f89-58b416b5717f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

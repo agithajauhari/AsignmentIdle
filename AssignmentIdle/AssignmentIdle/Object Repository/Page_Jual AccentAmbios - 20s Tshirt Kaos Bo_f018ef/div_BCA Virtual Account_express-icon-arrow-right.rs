@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BCA Virtual Account_express-icon-arrow-right</name>
+   <tag></tag>
+   <elementGuidId>3055b14f-b85e-4d94-9448-69148ee0d3b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='7']/div[2]/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb0cd518-75d9-48ed-9ef4-01e5d460758f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>express-icon-arrow-right</value>
+      <webElementGuid>50031dfb-95fe-469e-92bf-1283bec067d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;7&quot;)/div[@class=&quot;payment__list-wrapper&quot;]/div[@class=&quot;payment-list express-payment-list&quot;]/div[@class=&quot;payment__list&quot;]/div[@class=&quot;payment__selection&quot;]/div[@class=&quot;express-icon-arrow-right&quot;]</value>
+      <webElementGuid>026fec02-20b7-439f-ab75-8c5b2820fc81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Jual AccentAmbios - 20s Tshirt Kaos Bo_f018ef/iframe_Pilih pembayaran_iframe-occ-change-payment</value>
+      <webElementGuid>dcb520f5-2957-4cc5-8a2a-42a0b958deb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='7']/div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>ba75cdf1-ce7c-4bbc-9302-c42f252b710f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>f2d1a7b0-a209-4c25-8584-a5072776cafa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

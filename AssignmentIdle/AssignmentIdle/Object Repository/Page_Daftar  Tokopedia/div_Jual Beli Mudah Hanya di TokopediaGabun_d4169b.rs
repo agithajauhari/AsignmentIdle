@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jual Beli Mudah Hanya di TokopediaGabun_d4169b</name>
+   <tag></tag>
+   <elementGuidId>c182bc01-84bd-438a-863f-f1cdacb92ab0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.left__wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be9b66dd-c694-4287-8a77-ba14086863dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>left__wrapper</value>
+      <webElementGuid>6dead68b-01fe-46c5-9e94-7110562d86f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jual Beli Mudah Hanya di TokopediaGabung dan rasakan kemudahan bertransaksi di Tokopedia</value>
+      <webElementGuid>3bd37146-b42e-4d3d-b20e-d8dd1cfc8440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/main[@class=&quot;css-nuukba&quot;]/div[@class=&quot;css-mu789q&quot;]/div[@class=&quot;left__container&quot;]/div[@class=&quot;left__wrapper&quot;]</value>
+      <webElementGuid>b85a688c-8615-4440-a0e1-9bedb64bce38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/div[2]/div/div</value>
+      <webElementGuid>171156f3-ead7-4214-bad1-0f300fb93b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>13ea6c98-06ea-4453-904b-8724a35c57c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jual Beli Mudah Hanya di TokopediaGabung dan rasakan kemudahan bertransaksi di Tokopedia' or . = 'Jual Beli Mudah Hanya di TokopediaGabung dan rasakan kemudahan bertransaksi di Tokopedia')]</value>
+      <webElementGuid>58aa92b9-b908-4d5e-b997-ac451fd5f69e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

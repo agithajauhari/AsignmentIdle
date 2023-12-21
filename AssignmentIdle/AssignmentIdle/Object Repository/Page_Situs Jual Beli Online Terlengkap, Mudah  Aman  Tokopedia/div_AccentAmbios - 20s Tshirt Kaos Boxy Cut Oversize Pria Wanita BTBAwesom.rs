@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AccentAmbios - 20s Tshirt Kaos Boxy Cut Oversize Pria Wanita BTBAwesom</name>
+   <tag></tag>
+   <elementGuidId>29b8ccd1-9de4-4c8e-a4bc-77e03d3cc139</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/section[2]/div/section/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.prd_link-product-name.css-3um8ox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>611112ab-08e4-426d-a631-26e800bb7508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prd_link-product-name css-3um8ox</value>
+      <webElementGuid>5736030d-5ca3-4088-a511-6232a5e8a0ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>linkProductName</value>
+      <webElementGuid>2069754c-ac8e-4999-ab38-5298f643aced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AccentAmbios - 20s Tshirt Kaos Boxy Cut Oversize Pria Wanita BTBAwesom</value>
+      <webElementGuid>309f4699-e0ae-4ed5-ae34-6534930e696e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/main[@class=&quot;css-15x0u31&quot;]/section[@class=&quot;css-stopwq&quot;]/div[@class=&quot;css-183zhx4&quot;]/section[@class=&quot;css-12ctp9m-unf-card eeeacht0&quot;]/div[@class=&quot;css-17ufkuw&quot;]/div[@class=&quot;css-zgsss css-1sv3lfz&quot;]/div[@class=&quot;css-ztvvor&quot;]/div[@class=&quot;css-10p3cwr carousel&quot;]/div[@class=&quot;css-l3n1jj&quot;]/div[@class=&quot;css-sncotz center&quot;]/div[1]/div[@class=&quot;css-1u6yi94&quot;]/div[@class=&quot;css-1x9x50q&quot;]/div[@class=&quot;css-twpy6c&quot;]/div[@class=&quot;prd_container-card css-1jjecph&quot;]/div[@class=&quot;pcv3__container css-1izdl9e&quot;]/div[@class=&quot;css-1asz3by&quot;]/a[@class=&quot;pcv3__info-content css-gwkf0u&quot;]/div[@class=&quot;prd_link-product-name css-3um8ox&quot;]</value>
+      <webElementGuid>195fe105-db70-481a-9428-6fb347f59029</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/section[2]/div/section/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>a9cf9fb6-46e6-45b3-a5ba-06a2e3be157d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[2]/following::div[22]</value>
+      <webElementGuid>4a9d37af-5cd9-4b30-84da-8b265535ce22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbatas! Buruan Serbu'])[1]/following::div[23]</value>
+      <webElementGuid>10935435-c010-42b2-ab49-1c16fa1ff9b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp98.000'])[1]/preceding::div[1]</value>
+      <webElementGuid>f46f64ec-5baf-4248-ab1c-5314e505861e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cashback 3,9rb'])[1]/preceding::div[3]</value>
+      <webElementGuid>4c0ae898-6b1b-45ce-9445-35c10dd830b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AccentAmbios - 20s Tshirt Kaos Boxy Cut Oversize Pria Wanita BTBAwesom']/parent::*</value>
+      <webElementGuid>93f6ce13-9fb5-407e-8f4c-6405a4a7f3a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div</value>
+      <webElementGuid>ed9c088f-7fef-4056-b5ac-9406531f2ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AccentAmbios - 20s Tshirt Kaos Boxy Cut Oversize Pria Wanita BTBAwesom' or . = 'AccentAmbios - 20s Tshirt Kaos Boxy Cut Oversize Pria Wanita BTBAwesom')]</value>
+      <webElementGuid>5af0365c-b7b1-463d-bf9b-f3e82da072b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

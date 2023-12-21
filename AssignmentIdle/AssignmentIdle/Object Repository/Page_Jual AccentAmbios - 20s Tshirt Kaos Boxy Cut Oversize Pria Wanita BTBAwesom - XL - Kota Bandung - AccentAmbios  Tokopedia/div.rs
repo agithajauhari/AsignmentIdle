@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>bb4d8236-926b-4092-83f7-9d203f6dc5f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='onboarding-remove-profile-1-1']/div/div/div[3]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-10x2f60 > div:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cfd1bad9-8bfb-4840-84a1-bac5b2580eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onboarding-remove-profile-1-1&quot;)/div[1]/div[@class=&quot;css-7e4vat&quot;]/div[@class=&quot;css-1k3qxju&quot;]/div[1]/div[1]/div[@class=&quot;css-10x2f60&quot;]/div[2]</value>
+      <webElementGuid>fa88318e-8730-4010-bec9-00e29040abfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onboarding-remove-profile-1-1']/div/div/div[3]/div/div/div/div[2]</value>
+      <webElementGuid>e9c4cc6d-d335-4955-9d30-678b4a0a083e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utama'])[1]/following::div[21]</value>
+      <webElementGuid>8403f620-bbbf-4d83-9c7e-68d48107e82c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Makin hemat pakai promo'])[1]/preceding::div[12]</value>
+      <webElementGuid>af143264-389c-4998-a4e2-6a0580d54b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayar'])[1]/preceding::div[42]</value>
+      <webElementGuid>f3a6f770-15b1-4e4a-9b27-e58e5b1ac85f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]</value>
+      <webElementGuid>9603bc2e-2bf8-4966-b6fd-aa9437639751</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

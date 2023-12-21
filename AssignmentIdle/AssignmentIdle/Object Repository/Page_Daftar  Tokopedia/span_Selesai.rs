@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Selesai</name>
+   <tag></tag>
+   <elementGuidId>8b2108bb-63f6-48d9-b484-c14bafa4606f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/div[2]/div[2]/div/form/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.reg__submit.css-1k9qobw-unf-btn.eg8apji0 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e2590632-837a-4143-a293-8774c58ba99a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selesai</value>
+      <webElementGuid>34f5944e-25d7-4010-97f1-2637f01cc54b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/main[@class=&quot;css-nuukba&quot;]/div[@class=&quot;css-mu789q&quot;]/div[@class=&quot;right__container&quot;]/div[@class=&quot;css-1fnwe0o&quot;]/form[1]/button[@class=&quot;reg__submit css-1k9qobw-unf-btn eg8apji0&quot;]/span[1]</value>
+      <webElementGuid>168e768a-6186-45de-a08b-b2889d69bb6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/div[2]/div[2]/div/form/button/span</value>
+      <webElementGuid>7a0bd900-27e7-43a0-8c67-10f05c24f790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::span[1]</value>
+      <webElementGuid>1b350865-6ad0-44d1-a97a-a9756ade97b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap'])[1]/following::span[1]</value>
+      <webElementGuid>4ca2fdd0-5519-4a3e-9a4a-968b7a8bf5e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dengan mendaftar, saya menyetujui'])[1]/preceding::span[1]</value>
+      <webElementGuid>a520eb40-ce82-4208-9526-5934189c9be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selesai']/parent::*</value>
+      <webElementGuid>b945e14f-d88c-4dac-ae49-88b050cd6fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>9647e4a9-2582-4c8c-887a-e33268ed6fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Selesai' or . = 'Selesai')]</value>
+      <webElementGuid>17738f1c-33fc-4197-a7c0-60832edc5ef9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

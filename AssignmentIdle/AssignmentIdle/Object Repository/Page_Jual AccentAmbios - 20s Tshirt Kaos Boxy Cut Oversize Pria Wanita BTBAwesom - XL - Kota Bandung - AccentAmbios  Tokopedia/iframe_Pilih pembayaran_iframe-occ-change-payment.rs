@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Pilih pembayaran_iframe-occ-change-payment</name>
+   <tag></tag>
+   <elementGuidId>8261fa69-847a-4ce5-ba83-ca781fd6287c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@name='iframe-occ-change-payment']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe[name=&quot;iframe-occ-change-payment&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>ba4836ff-98ba-4331-b44a-2b98d5e7efe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>iframe-occ-change-payment</value>
+      <webElementGuid>e92c84da-024f-485f-aebf-8289d723bd44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>iframe-occ-change-payment</value>
+      <webElementGuid>06c79ae9-b810-4c5f-b59d-91d3afe849f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;css-1g5w2rw&quot;]/div[10]/div[@class=&quot;css-7lpkml e1nc1fa20&quot;]/article[@class=&quot;css-z3221k-unf-modal e1nc1fa21&quot;]/div[@class=&quot;css-d6mneo e1nc1fa22&quot;]/div[1]/div[@class=&quot;css-tixlo0&quot;]/iframe[1]</value>
+      <webElementGuid>2607afa5-6460-4254-ba87-3196fdb62f4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//iframe[@name='iframe-occ-change-payment']</value>
+      <webElementGuid>ab68cf8d-925a-4a14-aa17-38f8f3317274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/iframe</value>
+      <webElementGuid>e2f400c0-038b-4252-8dcf-816136b3cf33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@name = 'iframe-occ-change-payment' and @title = 'iframe-occ-change-payment']</value>
+      <webElementGuid>22025bbc-f7b6-4aa9-8eab-f804daee777d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
